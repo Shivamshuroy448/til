@@ -20,6 +20,7 @@ _Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)_
 
 | Date | Category | Topic |
 | :--- | :--- | :--- |
+| 2026-09-08 | SQL | [ACID Properties & Query Execution Order](sql/acid_and_query_execution_order.md) |
 | 2026-09-03 | SQL | [Window Functions](sql/window_functions.md) |
 
 ---
